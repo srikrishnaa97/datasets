@@ -1,6 +1,7 @@
 # datasets
 Dump of all datasets I want to play around with 
 <table>
+  <tr><td>Advertising</td>      <td>Advertising budgets in 3 different media and sales data for 200 different markets</td></tr>
   <tr><td>Auto</td>             <td>Gas mileage, horsepower, and other information for cars</td></tr>
   <tr><td>Boston</td>           <td>Housing values and other information about Boston suburbs</td></tr>
   <tr><td>Caravan</td>          <td>Information about individuals offered caravan insurance</td></tr>
