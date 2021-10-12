@@ -1,7 +1,7 @@
 # datasets
 Dump of all datasets I want to play around with 
 
-Auto        -     Gas mileage, horsepower, and other information for cars
+<ul>Auto        -     Gas mileage, horsepower, and other information for cars</ul>
 Boston      -     Housing values and other information about Boston suburbs
 Caravan     -     Information about individuals offered caravan insurance
 Carseats    -     Information about car seat sales in 400 stores
